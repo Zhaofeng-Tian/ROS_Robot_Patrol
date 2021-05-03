@@ -1,0 +1,6 @@
+image: /home/wheeltec/wheeltec_robot/src/turn_on_wheeltec_robot/map/mec2012.pgm
+resolution: 0.500000
+origin: [-12.093961, -11.567219, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196

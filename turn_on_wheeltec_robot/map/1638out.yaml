@@ -1,0 +1,6 @@
+image: /home/wheeltec/wheeltec_robot/src/1638out.pgm
+resolution: 0.500000
+origin: [-10.709109, -11.095389, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196

@@ -1,0 +1,7 @@
+image: carto1109.pgm
+resolution: 0.050000
+origin: [-8.292945, -11.489669, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
